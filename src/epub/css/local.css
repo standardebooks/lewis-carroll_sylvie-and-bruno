@@ -65,3 +65,7 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+th{
+	text-align: center;
+}
