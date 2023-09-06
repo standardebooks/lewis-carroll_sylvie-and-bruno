@@ -34,4 +34,10 @@
 			<reason>Punctuation is correct</reason>
 		</ignore>
 	</file>
+	<file path="preface-4.xhtml">
+		<ignore>
+			<code>t-002</code>
+			<reason>Punctuation is correct</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
