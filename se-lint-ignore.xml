@@ -28,6 +28,12 @@
 			<reason>Punctuation is correct</reason>
 		</ignore>
 	</file>
+	<file path="chapter-1-15.xhtml">
+		<ignore>
+			<code>t-002</code>
+			<reason>Punctuation is correct</reason>
+		</ignore>
+	</file>
 	<file path="preface-2.xhtml">
 		<ignore>
 			<code>t-002</code>
