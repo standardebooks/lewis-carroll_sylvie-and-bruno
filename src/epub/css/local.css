@@ -85,3 +85,11 @@ figcaption{
 figcaption p + p{
 	text-indent: 0;
 }
+
+table,
+th,
+td{
+	border: 1px solid black;
+	max-width: fit-content;
+	text-align: center;
+}
