@@ -77,7 +77,13 @@ figure img{
 	max-width: 100%;
 }
 
-table,
+table{
+	border: 1px solid black;
+	margin: 1em;
+	max-width: fit-content;
+	text-align: center;
+}
+
 th,
 td{
 	border: 1px solid black;
