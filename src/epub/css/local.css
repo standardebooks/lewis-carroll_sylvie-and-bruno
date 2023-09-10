@@ -90,3 +90,7 @@ td{
 	max-width: fit-content;
 	text-align: center;
 }
+
+#chapter-2-25 p:last-child{
+	text-align: center;
+}
