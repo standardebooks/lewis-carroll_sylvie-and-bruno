@@ -34,9 +34,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047114</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Two siblings alternate between fantasy and real life in this novel filled with absurd scenes and social criticism.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The last of &lt;a href="https://standardebooks.org/ebooks/lewis-carroll"&gt;Lewis Carroll’s&lt;/a&gt; works, &lt;i&gt;Sylvie and Bruno&lt;/i&gt; was never as popular and well received as his other more well-regarded works, &lt;a href="https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel"&gt;&lt;i&gt;Alice’s Adventures in Wonderland&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel"&gt;&lt;i&gt;Through the Looking-Glass&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;The fact that this this work is the result of two previous published short stories plus deveral ideas collected throughout the years make the book have a less consistent plot and transition between the two “parts” of the story, Fairyland and the real world.&lt;/p&gt;
+			&lt;p&gt;Although not containent the elements that made his other works famous, Sylvie and Bruno still has literary value due to its social criticism of Victorian England.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48630</dc:source>
@@ -56,7 +58,6 @@
 		<dc:contributor id="artist">Saturnin Świerzyński</dc:contributor>
 		<meta property="file-as" refines="#artist">Świerzyński, Saturnin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://pl.wikipedia.org/wiki/Saturnin_%C5%9Awierzy%C5%84ski</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">MWS</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">MWS</meta>
