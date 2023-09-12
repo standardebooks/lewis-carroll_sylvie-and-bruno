@@ -91,6 +91,14 @@ td{
 	text-align: center;
 }
 
+#chapter-2-19 blockquote:first-of-type{
+	text-align: center;
+}
+
+#chapter-2-19 hr{
+	width: 20em;
+}
+
 #chapter-2-25 p:last-child{
 	text-align: center;
 }
