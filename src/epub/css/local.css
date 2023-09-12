@@ -91,8 +91,9 @@ td{
 	text-align: center;
 }
 
-#chapter-2-19 blockquote:first-of-type{
+#chapter-2-19 blockquote > p{
 	text-align: center;
+	text-indent: 0;
 }
 
 #chapter-2-25 p:last-child{
