@@ -6,6 +6,12 @@
 			<reason>Paragraph begins with lowercase letters</reason>
 		</ignore>
 	</file>
+	<file path="chapter-1-15.xhtml">
+		<ignore>
+			<code>t-002</code>
+			<reason>Punctuation is correct</reason>
+		</ignore>
+	</file>
 	<file path="chapter-1-24.xhtml">
 		<ignore>
 			<code>t-002</code>
@@ -17,6 +23,10 @@
 			<code>t-042</code>
 			<reason>Punctuation is correct</reason>
 		</ignore>
+		<ignore>
+			<code>t-002</code>
+			<reason>Punctuation is correct</reason>
+		</ignore>
 	</file>
 	<file path="chapter-2-14.xhtml">
 		<ignore>
@@ -24,9 +34,9 @@
 			<reason>Punctuation is correct</reason>
 		</ignore>
 	</file>
-	<file path="chapter-1-15.xhtml">
+	<file path="chapter-2-25.xhtml">
 		<ignore>
-			<code>t-002</code>
+			<code>t-042</code>
 			<reason>Punctuation is correct</reason>
 		</ignore>
 	</file>
@@ -41,10 +51,8 @@
 			<code>t-002</code>
 			<reason>Punctuation is correct</reason>
 		</ignore>
-	</file>
-	<file path="chapter-2-13.xhtml">
 		<ignore>
-			<code>t-002</code>
+			<code>t-029</code>
 			<reason>Punctuation is correct</reason>
 		</ignore>
 	</file>
