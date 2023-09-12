@@ -91,6 +91,10 @@ td{
 	text-align: center;
 }
 
+[epub|type~="z3998:salutation"]{
+	text-align: left;
+}
+
 #chapter-2-19 blockquote:first-of-type{
 	text-align: center;
 }
