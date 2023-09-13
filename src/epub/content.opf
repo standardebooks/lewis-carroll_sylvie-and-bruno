@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48630</dc:source>
 		<dc:source>https://archive.org/details/brunosylvie00carrrich</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The preface to the first and second volumes contains several references to pages in the two volumes; these have been rewritten and had links added to conform to the nature of an eBook. The preface to the second volume also contains two tables, which have been slightly changed to better acomodate the new edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sylvie_and_Bruno</meta>
