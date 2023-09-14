@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
@@ -78,17 +79,26 @@ figure img{
 }
 
 table{
-	border: 1px solid black;
-	margin: 1em;
-	max-width: fit-content;
+	border: 1px solid;
+	border-collapse: collapse;
+	margin: 1em auto;
+	text-align: center;
+	vertical-align: top;
+}
+
+table td{
+	vertical-align: top;
+}
+
+table th,
+table:first-of-type td{
+	border: 1px solid;
 	text-align: center;
 }
 
-th,
-td{
-	border: 1px solid black;
-	max-width: fit-content;
-	text-align: center;
+table:last-of-type tr + tr,
+table:last-of-type td + td{
+	border: none;
 }
 
 #chapter-2-19 blockquote > p{
@@ -142,3 +152,7 @@ section > header [epub|type~="epigraph"] + *{
 	font-style: italic;
 }
 /* End all epigraphs */
+
+blockquote[xml|lang]{
+	font-style: italic;
+}
