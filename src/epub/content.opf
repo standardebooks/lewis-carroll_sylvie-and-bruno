@@ -155,6 +155,8 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="volume-1.xhtml"/>
+		<itemref idref="volume-1-preface.xhtml"/>
 		<itemref idref="chapter-1-1.xhtml"/>
 		<itemref idref="chapter-1-2.xhtml"/>
 		<itemref idref="chapter-1-3.xhtml"/>
@@ -180,6 +182,8 @@
 		<itemref idref="chapter-1-23.xhtml"/>
 		<itemref idref="chapter-1-24.xhtml"/>
 		<itemref idref="chapter-1-25.xhtml"/>
+		<itemref idref="volume-2.xhtml"/>
+		<itemref idref="volume-2-preface.xhtml"/>
 		<itemref idref="chapter-2-1.xhtml"/>
 		<itemref idref="chapter-2-2.xhtml"/>
 		<itemref idref="chapter-2-3.xhtml"/>
@@ -205,10 +209,6 @@
 		<itemref idref="chapter-2-23.xhtml"/>
 		<itemref idref="chapter-2-24.xhtml"/>
 		<itemref idref="chapter-2-25.xhtml"/>
-		<itemref idref="volume-1-preface.xhtml"/>
-		<itemref idref="volume-1.xhtml"/>
-		<itemref idref="volume-2-preface.xhtml"/>
-		<itemref idref="volume-2.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
