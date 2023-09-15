@@ -94,7 +94,6 @@ table:last-of-type td + td{
 }
 
 @supports(display: table){
-	article > header [epub|type~="epigraph"],
 	section > header [epub|type~="epigraph"]{
 		display: table;
 	}
