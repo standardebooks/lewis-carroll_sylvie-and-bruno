@@ -112,3 +112,26 @@ blockquote[xml|lang]{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+/* All epigraphs */
+[epub|type~="epigraph"]{
+	font-style: italic;
+	hyphens: none;
+	-epub-hyphens: none;
+}
+/* End all epigraphs */
+
+#chapter-2-19 blockquote:first-of-type p{
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-2-19 blockquote:first-of-type p + p{
+	margin-top: 1em;
+}
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
