@@ -130,8 +130,15 @@ blockquote[xml|lang]{
 	margin-top: 1em;
 }
 
-header{
+blockquote header{
 	font-variant: small-caps;
 	margin: 1em;
 	text-align: center;
+}
+
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
 }
