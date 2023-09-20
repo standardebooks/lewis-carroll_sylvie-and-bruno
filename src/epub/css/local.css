@@ -78,7 +78,9 @@ table{
 	vertical-align: top;
 }
 
-table td{
+table td,
+table th{
+	padding: .5em;
 	vertical-align: top;
 }
 
