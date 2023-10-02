@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lewis-carroll/sylvie-and-bruno</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-10-02T02:32:17Z</dc:date>
+		<meta property="dcterms:modified">2023-10-02T02:32:17Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,11 +36,9 @@
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">Two siblings alternate between fantasy and the real world after their father is the victim of a political conspiracy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The last of &lt;a href="https://standardebooks.org/ebooks/lewis-carroll"&gt;Lewis Carroll’s&lt;/a&gt; works, &lt;i&gt;Sylvie and Bruno&lt;/i&gt; was never as popular and well received as his other more well-regarded works, &lt;a href="https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel"&gt;&lt;i&gt;Alice’s Adventures in Wonderland&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel"&gt;&lt;i&gt;Through the Looking-Glass&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-			&lt;p&gt;The titular characters, Sylvie and Bruno, serve as the connection between the two locations of the novel, the first being set in Outland, a fictional land in which the children’s father is the Warden. After their father is the victim of a political conspiracy by their uncle, they leave their residence and travel to several different places and interact with several insteresting and unusual characters.&lt;/p&gt;
-			&lt;p&gt;The second location being set in the real word, during Carroll’s own time period (Victorian England). This part of the novel has a more realistic plot, being primarily regarding the love between two characters. During this part of the novel, some of the characters discuss several ideas regarding religion, politics, morals and economics, and reflect ideas popular at the time of writing. The entirety of the story is narrated by a character in the novel, who serves as a kind of omniscient narrator.&lt;/p&gt;
-			&lt;p&gt;The fact that this this work is the result of two previous published short stories plus deveral ideas collected throughout the years make the book have a less consistent plot and transition between the two “parts” of the story, Fairyland and the real world.&lt;/p&gt;
-			&lt;p&gt;Although not containing the elements that made his other works famous, Sylvie and Bruno still has literary value due to its social criticism of Victorian England.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Sylvie and Bruno&lt;/i&gt;, the titular characters serve as the connection between the novel's two settings:, Outland, a fictional land in which the children’s father is the Warden, and the real world, Victorian England. After their father is betrayed by their uncle, the family leaves their home and travels to different places to meet interesting and unusual characters.&lt;/p&gt;
+			&lt;p&gt;The part of the story set in England is social commentary, with the characters discussing philosophy, religion, morals, and economics. The part set in Outland is a fairy tale akin to &lt;a href="https://standardebooks.org/ebooks/lewis-carroll"&gt;Carroll’s&lt;/a&gt; much more works, &lt;a href="https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel"&gt;&lt;i&gt;Alice’s Adventures in Wonderland&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel"&gt;&lt;i&gt;Through the Looking-Glass&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;The novel is a combination of two previous published short stories, plus several ideas Carroll collected throughout the years. This pedigree results in a fairly scattered plot, and the book was not well received by contemporary critics and audiences.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Volume 1-->
@@ -50,8 +48,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/48795</dc:source>
 		<dc:source>https://archive.org/details/conclsylviebruno00carrrich</dc:source>
 		<meta property="se:production-notes">The preface to the first and second volumes contains several references to pages in the two volumes; these have been rewritten and had links added to conform to the nature of an eBook. The preface to the second volume also contains two tables, which have been slightly changed to better acomodate the new edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">137283</meta>
+		<meta property="se:reading-ease.flesch">73.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sylvie_and_Bruno</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lewis-carroll_sylvie-and-bruno</meta>
 		<dc:creator id="author">Lewis Carroll</dc:creator>
