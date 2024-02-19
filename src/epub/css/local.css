@@ -139,9 +139,9 @@ blockquote[xml|lang]{
 }
 
 #chapter-2-25 > p:last-child{
-	text-align: center;
-	margin-top: 1em;
 	font-family: "Standard Blackletter";
+	margin-top: 1em;
+	text-align: center;
 }
 
 blockquote header{
