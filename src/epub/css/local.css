@@ -2,6 +2,12 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+@font-face{
+	font-family: "Standard Blackletter";
+	font-weight: 700;
+	src: url("../fonts/standard-blackletter.otf") format("opentype");
+}
+
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
@@ -130,6 +136,12 @@ blockquote[xml|lang]{
 
 #chapter-2-19 blockquote:first-of-type p + p{
 	margin-top: 1em;
+}
+
+#chapter-2-25 > p:last-child{
+	text-align: center;
+	margin-top: 1em;
+	font-family: "Standard Blackletter";
 }
 
 blockquote header{
