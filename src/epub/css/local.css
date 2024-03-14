@@ -142,6 +142,7 @@ blockquote[xml|lang]{
 	font-family: "Standard Blackletter";
 	margin-top: 1em;
 	text-align: center;
+	text-indent: 0;
 }
 
 blockquote header{
