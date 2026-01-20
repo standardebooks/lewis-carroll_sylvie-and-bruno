@@ -48,7 +48,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/48795</dc:source>
 		<dc:source>https://archive.org/details/conclsylviebruno00carrrich</dc:source>
 		<meta property="se:production-notes">The preface to the first and second volumes contains several references to pages in the two volumes; these have been rewritten and had links added to conform to the nature of an eBook. The preface to the second volume also contains two tables, which have been slightly changed to better acomodate the new edition.</meta>
-		<meta property="se:word-count">137280</meta>
+		<meta property="se:word-count">134387</meta>
 		<meta property="se:reading-ease.flesch">74.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sylvie_and_Bruno</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lewis-carroll_sylvie-and-bruno</meta>
