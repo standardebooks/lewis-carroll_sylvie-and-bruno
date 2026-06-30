@@ -1,0 +1,1 @@
+The preface to the first and second volumes contains several references to pages in the two volumes; these have been rewritten and had links added to conform to the nature of an eBook. The preface to the second volume also contains two tables, which have been slightly changed to better acomodate the new edition.
